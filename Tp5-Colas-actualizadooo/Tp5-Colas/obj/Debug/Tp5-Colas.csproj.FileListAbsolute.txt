@@ -1,0 +1,179 @@
+C:\Users\tomas\source\repos\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.exe.config
+C:\Users\tomas\source\repos\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.exe
+C:\Users\tomas\source\repos\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.pdb
+C:\Users\tomas\source\repos\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.AssemblyReference.cache
+C:\Users\tomas\source\repos\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas\source\repos\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5_Colas.Form1.resources
+C:\Users\tomas\source\repos\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5_Colas.Properties.Resources.resources
+C:\Users\tomas\source\repos\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.GenerateResource.cache
+C:\Users\tomas\source\repos\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.CoreCompileInputs.cache
+C:\Users\tomas\source\repos\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.exe
+C:\Users\tomas\source\repos\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.pdb
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.AssemblyReference.cache
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5_Colas.Principal.resources
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5_Colas.Properties.Resources.resources
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.GenerateResource.cache
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.CoreCompileInputs.cache
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.exe
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.pdb
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.exe.config
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.exe
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.pdb
+C:\Users\tomas\Downloads\SIM\Tp actualisimo\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.exe.config
+C:\Users\tomas\Downloads\SIM\Tp actualisimo\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.exe
+C:\Users\tomas\Downloads\SIM\Tp actualisimo\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.pdb
+C:\Users\tomas\Downloads\SIM\Tp actualisimo\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.AssemblyReference.cache
+C:\Users\tomas\Downloads\SIM\Tp actualisimo\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas\Downloads\SIM\Tp actualisimo\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5_Colas.Principal.resources
+C:\Users\tomas\Downloads\SIM\Tp actualisimo\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5_Colas.Properties.Resources.resources
+C:\Users\tomas\Downloads\SIM\Tp actualisimo\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.GenerateResource.cache
+C:\Users\tomas\Downloads\SIM\Tp actualisimo\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Downloads\SIM\Tp actualisimo\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.exe
+C:\Users\tomas\Downloads\SIM\Tp actualisimo\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.pdb
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.exe.config
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.exe
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.pdb
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.SuggestedBindingRedirects.cache
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5_Colas.Principal.resources
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5_Colas.Properties.Resources.resources
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.exe
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.pdb
+D:\Usuario\Escritorio\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.AssemblyReference.cache
+D:\Usuario\Escritorio\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.SuggestedBindingRedirects.cache
+D:\Usuario\Escritorio\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5_Colas.Principal.resources
+D:\Usuario\Escritorio\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5_Colas.Properties.Resources.resources
+D:\Usuario\Escritorio\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.GenerateResource.cache
+D:\Usuario\Escritorio\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.CoreCompileInputs.cache
+D:\Usuario\Escritorio\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.exe
+D:\Usuario\Escritorio\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.pdb
+D:\Usuario\Escritorio\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.exe.config
+D:\Usuario\Escritorio\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.exe
+D:\Usuario\Escritorio\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.pdb
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.exe.config
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.exe
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.pdb
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.AssemblyReference.cache
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5_Colas.Principal.resources
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5_Colas.Properties.Resources.resources
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.GenerateResource.cache
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.exe
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.pdb
+C:\Users\benja\OneDrive\Escritorio\Nueva carpeta\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.exe.config
+C:\Users\benja\OneDrive\Escritorio\Nueva carpeta\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.exe
+C:\Users\benja\OneDrive\Escritorio\Nueva carpeta\Tp5-Colas\Tp5-Colas\bin\Debug\Tp5-Colas.pdb
+C:\Users\benja\OneDrive\Escritorio\Nueva carpeta\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.AssemblyReference.cache
+C:\Users\benja\OneDrive\Escritorio\Nueva carpeta\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.SuggestedBindingRedirects.cache
+C:\Users\benja\OneDrive\Escritorio\Nueva carpeta\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5_Colas.Principal.resources
+C:\Users\benja\OneDrive\Escritorio\Nueva carpeta\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5_Colas.Properties.Resources.resources
+C:\Users\benja\OneDrive\Escritorio\Nueva carpeta\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.GenerateResource.cache
+C:\Users\benja\OneDrive\Escritorio\Nueva carpeta\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Escritorio\Nueva carpeta\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.exe
+C:\Users\benja\OneDrive\Escritorio\Nueva carpeta\Tp5-Colas\Tp5-Colas\obj\Debug\Tp5-Colas.pdb
+C:\Users\santi\OneDrive\Desktop\Tp5-Colassss\Tp5-Colas\bin\Debug\Tp5-Colas.exe.config
+C:\Users\santi\OneDrive\Desktop\Tp5-Colassss\Tp5-Colas\bin\Debug\Tp5-Colas.exe
+C:\Users\santi\OneDrive\Desktop\Tp5-Colassss\Tp5-Colas\bin\Debug\Tp5-Colas.pdb
+C:\Users\santi\OneDrive\Desktop\Tp5-Colassss\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Desktop\Tp5-Colassss\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.SuggestedBindingRedirects.cache
+C:\Users\santi\OneDrive\Desktop\Tp5-Colassss\Tp5-Colas\obj\Debug\Tp5_Colas.Principal.resources
+C:\Users\santi\OneDrive\Desktop\Tp5-Colassss\Tp5-Colas\obj\Debug\Tp5_Colas.Properties.Resources.resources
+C:\Users\santi\OneDrive\Desktop\Tp5-Colassss\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Desktop\Tp5-Colassss\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Desktop\Tp5-Colassss\Tp5-Colas\obj\Debug\Tp5-Colas.exe
+C:\Users\santi\OneDrive\Desktop\Tp5-Colassss\Tp5-Colas\obj\Debug\Tp5-Colas.pdb
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colassss\Tp5-Colas\bin\Debug\Tp5-Colas.exe.config
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colassss\Tp5-Colas\bin\Debug\Tp5-Colas.exe
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colassss\Tp5-Colas\bin\Debug\Tp5-Colas.pdb
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colassss\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.AssemblyReference.cache
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colassss\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colassss\Tp5-Colas\obj\Debug\Tp5_Colas.Principal.resources
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colassss\Tp5-Colas\obj\Debug\Tp5_Colas.Properties.Resources.resources
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colassss\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.GenerateResource.cache
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colassss\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colassss\Tp5-Colas\obj\Debug\Tp5-Colas.exe
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colassss\Tp5-Colas\obj\Debug\Tp5-Colas.pdb
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.exe.config
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.exe
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.pdb
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.AssemblyReference.cache
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.SuggestedBindingRedirects.cache
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5_Colas.Principal.resources
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5_Colas.Properties.Resources.resources
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.GenerateResource.cache
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.CoreCompileInputs.cache
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.exe
+C:\Users\maxi1\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.pdb
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.exe.config
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.exe
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.pdb
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.SuggestedBindingRedirects.cache
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5_Colas.Principal.resources
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5_Colas.Properties.Resources.resources
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.exe
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.pdb
+C:\Users\benja\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.exe.config
+C:\Users\benja\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.exe
+C:\Users\benja\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.pdb
+C:\Users\benja\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.AssemblyReference.cache
+C:\Users\benja\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.SuggestedBindingRedirects.cache
+C:\Users\benja\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5_Colas.Principal.resources
+C:\Users\benja\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5_Colas.Properties.Resources.resources
+C:\Users\benja\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.GenerateResource.cache
+C:\Users\benja\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.CoreCompileInputs.cache
+C:\Users\benja\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.exe
+C:\Users\benja\OneDrive\Escritorio\Tp5-Colas-actualizado\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.pdb
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizadoooooo\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.exe.config
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizadoooooo\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.exe
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizadoooooo\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.pdb
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizadoooooo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.AssemblyReference.cache
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizadoooooo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.SuggestedBindingRedirects.cache
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizadoooooo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5_Colas.Principal.resources
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizadoooooo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5_Colas.Properties.Resources.resources
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizadoooooo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.GenerateResource.cache
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizadoooooo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.CoreCompileInputs.cache
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizadoooooo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.exe
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizadoooooo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.pdb
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizadoooooo\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.exe.manifest
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizadoooooo\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.application
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizadoooooo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.exe.manifest
+C:\Users\santi\OneDrive\Desktop\Tp5-Colas-actualizadoooooo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.application
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.exe.config
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.exe.manifest
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.application
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.exe
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.pdb
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.AssemblyReference.cache
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5_Colas.Principal.resources
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5_Colas.Properties.Resources.resources
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.GenerateResource.cache
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.exe.manifest
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.application
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.exe
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.pdb
+C:\Users\tomas\Downloads\Nueva carpeta\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5_Colas.RK4O.resources
+C:\Users\tomas\Downloads\tp6\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.exe.config
+C:\Users\tomas\Downloads\tp6\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.exe.manifest
+C:\Users\tomas\Downloads\tp6\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.application
+C:\Users\tomas\Downloads\tp6\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.exe
+C:\Users\tomas\Downloads\tp6\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\bin\Debug\Tp5-Colas.pdb
+C:\Users\tomas\Downloads\tp6\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.AssemblyReference.cache
+C:\Users\tomas\Downloads\tp6\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.SuggestedBindingRedirects.cache
+C:\Users\tomas\Downloads\tp6\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5_Colas.Principal.resources
+C:\Users\tomas\Downloads\tp6\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5_Colas.Properties.Resources.resources
+C:\Users\tomas\Downloads\tp6\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5_Colas.RK4O.resources
+C:\Users\tomas\Downloads\tp6\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.GenerateResource.cache
+C:\Users\tomas\Downloads\tp6\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.csproj.CoreCompileInputs.cache
+C:\Users\tomas\Downloads\tp6\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.exe.manifest
+C:\Users\tomas\Downloads\tp6\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.application
+C:\Users\tomas\Downloads\tp6\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.exe
+C:\Users\tomas\Downloads\tp6\Tp5-Colas-actualizadoo\Tp5-Colas-actualizado\Tp5-Colas\obj\Debug\Tp5-Colas.pdb
